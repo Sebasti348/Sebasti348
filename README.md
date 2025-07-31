@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /> 
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  href="https://www.youtube.com/watch?v=O-WsQlXaa0E&list=RDO-WsQlXaa0E&start_radio=1&pp=ygUGYm9rZXRloAcB0gcJCccJAYcqIYzv" />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="https://www.youtube.com/watch?v=O-WsQlXaa0E&list=RDO-WsQlXaa0E&start_radio=1&pp=ygUGYm9rZXRloAcB0gcJCccJAYcqIYzv" />
 </div>
 
 ###
