@@ -43,8 +43,8 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dracula&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=dracula&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebasti348&show_icons=true&theme=dracula&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebasti348&theme=dracula&hide_border=true&locale=es" alt="Racha de contribuciones" />
 </div>
 
 <br>
@@ -59,7 +59,7 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
   <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:TU_EMAIL@example.com">
+  <a href="valeriosebastian26@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://TU_SITIO_WEB.com" target="_blank">
