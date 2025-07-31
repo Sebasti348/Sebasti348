@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy un Técnico en Informática apasionado por [menciona tus áreas de interés, e.g., el desarrollo de software, la ciberseguridad, la infraestructura de redes, el análisis de datos]. Disfruto aprender nuevas tecnologías, automatizar tareas]. Mi objetivo es construir soluciones robustas, contribuir a proyectos innovadores, mejorar la eficiencia tecnológica.
+Soy un Técnico en Informática apasionado por desarrollo Web, la ciberseguridad y trabajo en equipo. Disfruto aprender nuevas tecnologías, automatizar tareas]. Mi objetivo es construir soluciones robustas, contribuir a proyectos innovadores, mejorar la eficiencia tecnológica.
 
 <br>
 
@@ -59,10 +59,10 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 ¡Me encantaría conectar y colaborar!
 
 <div align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/sebastian-valerio-915a9921a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="valeriosebastian26@gmail.com">
+  <a href="mailto:valeriosebastian26@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://TU_SITIO_WEB.com" target="_blank">
@@ -75,7 +75,7 @@ Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&color=blueviolet" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Sebasti348&color=blueviolet" alt="Contador de visitas" />
 </div>
 
 ---
